@@ -37,7 +37,7 @@ me ok
 (call cut...)
 
 “Huh… now I have to go to a hotel. for lunch.”
-With money in pocket, he went for the dorm canteen. On the way he stumbles upon a friend, Farhad. He requested 500 in change. But his friend didn't have any. Nevertheless, he went to the canteen, but right before he entered, he checked his pocket.
+With money in pocket, he went for the dorm canteen. On the way he stumbles upon a friend, Farhad. He requested 500 in change. But his friend didn't have any. Nevertheless, he went to the canteen, but right before he entered, he checked his pocket. there wasn't any money in his pocket.
 
 {5 stages of grief} 
 In denial, he went through all of his pockets, hoping that maybe he kept that money in another pocket even though he clearly remembers he kept that money in his left pocket.
