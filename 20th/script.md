@@ -4,7 +4,7 @@
 
 3. Conflict (what gets in the way): Where is the tension? Or what is an obstacle that makes it hard to reach the desire?
 
-4. Change (What Takes Place That Changes Something): What takes place that causes something to change?This might be a pivotal moment in the narrative.
+4. Change (What Takes Place That Changes Something): What takes place that causes something to change? This might be a pivotal moment in the narrative.
 
 5. Result (How does it end?): How does it end from what we started?
 
@@ -15,9 +15,9 @@
 
 SC. 1 SETTING UP SITUATION INT. DORM ROOM - DAY
 
-camera frame set on a table (top view), yaad just put his phone on the table, date is clear 20th september.
+CAMERA VIEW: (top view) set on a table, Yaad just put his phone on the table, and the date is clear 20th September.
 
-Yaad doodling something on a notepad.
+Yaad is doodling something on a notepad.
 
 (YAAD V.O.)
 
@@ -29,51 +29,51 @@ SC. 2 BUA'S CALL INT. DORM ROOM - DAY
 
 Yaad doodling
 
-[phone starts ringing in the background]
+(**phone starts ringing in the background.**)
 
 Yaad looks at the phone.
-camera focouses on the the phone, "Bua" name showing in the phone.
-yaad picks it up.
+CAMERA VIEW: The camera focuses on the phone, with the name "Bua" showing on the phone.
+Yaad picks it up.
 
 (Phone conversation)
 
-    Bua (V.O.) : hello yaad baba...
-    Yaad : hello Bua, where are you? it's almost 2pm?
-    Bua (V.O.) : Sorry, Baba, but I can't come today it's an emergency.
-    Yaad : Anything serious?
-    Bua (V.O.) : Not really, but I can't come today
-    Yaad ok
+    Bua (V.O.): Hello, Yaad Baba...
+    Yaad: hello Bua, Where are you? It's almost 2pm?
+    Bua (V.O.): Sorry, Baba, but I can't come today, it's an emergency.
+    Yaad: Anything serious?
+    Bua (V.O.): Not really, but I can't come today
+    Yaad: Ok.
     (call cut...)
 
-Yaad : Huh… now I have to go to the canteen for lunch.
+Yaad: Huh… Now I have to go to the canteen for lunch.
 
 SC. 3 OFF TO THE CANTEEN INT. DORM ROOM - DAY
 
-Yaad reachs for his wallet, A single note of 500 is there. He puts that 500 in his pocket.
+Yaad reaches for his wallet. A single note of 500 is there. He puts that 500 in his pocket.
 
 SC. 4 CONVERSATION ON STAIRS EXT. STAIRS - DAY
 
-Yaad running down the stairs. He stumble upon a friend Farhad.
+Yaad running down the stairs. He stumbles upon a friend, Farhad.
 
 (CONVERSATION BETWEEN YAAD AND FARHAD)
 
-Farhad : Sup?
-Yaad : Nothing, Bua didn't came so giving a visit to the canteen.
-Farhad : Oh, ok see you then.
-Yaad : OK.
-Yaad : Farhad!
-Farhad : Hmm?
-Yaad : Do you have 500tk in change?
-Farhad : Nope, its month end I barly have 200 left...
-Yaad : Oh, never mind.
+Farhad: Sup?
+Yaad: Nothing. Bua didn't come, so I'm going to the canteen.
+Farhad: Oh, ok, see you then.
+Yaad: OK.
+Yaad: Farhad!
+Farhad: Hmm?
+Yaad: Do you have 500 tk in change?
+Farhad: Nope, it's month-end. I barely have 200 left...
+Yaad: Oh, never mind.
 
-Yaad again off to the canteen.
+Yaad is off to the canteen again.
 
-SC. 5 LOST LAST 500 EXT. OUT SIDE OF THE CANTEEN - DAY
+SC. 5 LOST LAST 500 EXT. OUTSIDE OF THE CANTEEN - DAY
 Yaad is right infront of the canteen, he checks his pocket. His pocket was empty.
 
 (flashback : he kept 500tk in his left pocket)
-agressively going through all of this pockets.
+aggressively going through all of his pockets.
 
 YAAD:
 F*ck f*ck f*ck.... where the f*ck I lost that note.
@@ -81,50 +81,51 @@ Bua had to take off today?
 (**hits a rock in the ground**)
 If Farhad had some changes!!!
 
-Yaad slows down and things to himself.
+Yaad slows down and thinks to himself.
 
-YAAD V.O. :
+YAAD V.O.:
 Since I was the one who recklessly spent everything I had this month, why am I even pointing fingers at everyone?
 
-Yaad took out his phone, dialed to father.
-he heseted to call.
+Yaad took out his phone and dialed his father.
+He hesitated to call.
 
-YAAD V.O. :
-I should call him, But its third time in this month I'm asking for money,
-should I call him?
+YAAD V.O.:
+I should call him, but it's the third time in this month I'm asking for money.
+Should I call him?
 
-He called father but before the first ring he cut the call
+He called Father, but before the first ring he cut the call
 
 (takes a deep breath)
-YAAD V.O. :
-I lost the last bit of money I had. what more can I lose?
+YAAD V.O.:
+I lost the last bit of money I had. What more can I lose?
 
 He sits down and starts thinking.
 
-YAAD V.O. :
-I Have a tution in the evening, I can prepond that to now. Maybe in this odd hours anty might offer me lunch
+YAAD V.O.:
+I have a tuition in the evening, I can prepond that to now. Maybe in this odd hour anty might offer me lunch
 
 SC. 6 MEAL OF HUMILIATION INT. STUDENTS HOME - DAY
 
 CAMERA VIEW : ON YAAD, HAVING LUNCH
 
-Yaad having lunch, shame and humality in his eyes.
-slowly chewing yaad talks to himself
+Yaad is having lunch, shame and humility in his eyes.
+Slowly chewing, Yaad talks to himself
 
-YAAD V.O. :
+YAAD V.O.:
 Why me? What did I do wrong? What am I doing wrong? Am I on the right path? If so, why does everything feel so unbearable?
 
-Anty in her motherly tone ask
-Anty : what happend baba? didn't like the food?
-Yaad: (**fakes smile**) Nah, nothing like that, Its great actully, reminds me of maa
-Anty : Is it so? Come whenever you think of home.
-Yaad : Ofcourse anty
+Anty, in her motherly tone, asks,
+
+Anty: What happened, Baba? Didn't like the food?
+Yaad: (**fakes smile**) Nah, nothing like that. It's great actually, It reminds me of Maa.
+Anty: Is it so? When you miss home, come over.
+Yaad: Of course, anty.
 
 SC. 7 RETURN TO HOME EXT. STAIRS - DAY
 
-Yaad walking up the stairs, suddenly he sees a note of 500tk, he grabs it to take a look and find a doodle he sketched.
+Yaad is walking up the stairs; suddenly, he sees a note of 500 tk. He grabs it to take a look and finds a doodle he sketched.
 
-he looks at he camera with a faint smile.
+He looks at the camera with a faint smile.
 
 **BLACKSCREEN**
 
